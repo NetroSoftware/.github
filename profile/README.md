@@ -4,16 +4,16 @@
 </a>
 </p>
 
-## hello, we are Netro - home of the future 👋
+## hello, we are Netro - we collaborate to create what's next 👋
 (EST. 2022)
 
 We’re a small software collective creating what we love. From hosting services to websites, Netro is where we collaborate to build new software. If that sounds cool to you, [join us](https://forms.gle/SNMPStL5kNd9yxZP7)!
 
 ### Our Goal
+Netro exists to create software we collectively believe in. We build tools that spark our collective interest and address human needs, not shareholder demands. Every product we make is built with the user in mind.
 
-Our goal is to improve experiences for the people (you), not investors or just to earn a buck.
-We focus on building people together with technology, making it more accessible while being reasonable.
+### Structure
+Netro operates as a flat, worker-managed collective. There are no bosses, no CEOs, no board. Every worker has an equal voice in shaping Netro's future. 
 
 ### Learn More
-
 To find out about all our products, services, and more, check out our [website](https://netrocorp.net) or join our [Discord](https://discord.com/invite/HdKeWtV).
