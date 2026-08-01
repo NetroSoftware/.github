@@ -1,2 +1,1 @@
-# .github
-Netro Corp Github Description Repo.
+Netro global GitHub storage
